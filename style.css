@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(255, 254, 255);
+}
+
+.keys {
+    display: flex;
+    justify-content: center;
+}
+
+.key {
+    display: grid;
+    color: rgb(236, 242, 233);
+    background-color: rgb(21, 24, 23);
+    border-color: black;
+    border-radius: 5px;
+    font-size: 30px;
+    margin: 5px;
+    width: 100px;
+    text-align: center;
+}
+
+.keyTitle {
+    color: rgb(235, 82, 11);
+    font-size: 40px;
+}
+
+.keyDesc {
+    color: aliceblue;
+    font-size: 15px;
+}
+
+.header {
+    color: black;
+    font-size: 50px;
+    margin-bottom: 100px;
+}
